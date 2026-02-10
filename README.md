@@ -3,7 +3,6 @@ Z-FORM
 Form-Bound State Transmission and Non-Semantic Coordination
 
 Nguyen – Z-Lab
-Release: 2026-01-31
 
 
 ---
